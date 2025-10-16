@@ -169,6 +169,5 @@ Open the Local URL shown (e.g., http://localhost:5175).
 - ethers.js v6
 - Solidity ^0.8.0
 
-## License
 
-MIT
+
